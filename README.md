@@ -1,5 +1,2 @@
-# demo-repository
-This is my first repository demo project.
-<br>
-Author - Mehul
-<p> oh hello</p>
+#word-count-project
+In this mini project we can convert words to upper case and lower case and also we can see our word count.
